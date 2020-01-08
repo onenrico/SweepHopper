@@ -1,0 +1,5 @@
+name: SweepHopper
+author: Onenrico
+main: me.onenrico.sweephopper.main.Core
+version: '1.0'
+api-version: '1.13'
